@@ -1,0 +1,15 @@
+Work
+---
+I have a high amount of real-world experiece with iOS app development. 
+I use Flutter at a company I work for to develop mobile applications for a wide variety of clients.
+While in this class, I've worked on numorus apps including an app to display the daily school lunch, along with detailed nutrition information and images.
+
+In addition to back-end programming, I'm also passionate about UI design. I've experiemented with serval different design languages and am always looking for better ways to convay information to users.
+
+Personal Projects
+---
+I've worked on several personal projects including Simply Servers, a full-on server management platform. This project included a horizontally scalable management engine, which is powered by Docker. It also included a full-fledged API and an Angular front-end. While never deployed, this project was fully functional and completed.
+
+Volunteer Work
+---
+ I co-founded a non-profit named Connect To Care to raise awareness of youth homelessness. We run various programs to help our local Minneapolis homeless community. While working there, I've managed several projects, including our end-to-end volunteer platform. and have been deeply involved in application design and development. To learn more about Connect To Care, visit our website.
