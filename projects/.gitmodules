@@ -1,0 +1,3 @@
+[submodule "LunchApp"]
+	path = LunchApp
+	url = https://github.com/AlecDusheck/EPHSLunchMenu
